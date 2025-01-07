@@ -1,0 +1,18 @@
+.impar {
+    background-color: rgb(233, 183, 191);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.veinticuatro {
+    font-size: 24px;
+}
+
+#pepe {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#trueno {
+    background-color: rgb(110, 201, 110);
+    font-weight: bold;
+}
